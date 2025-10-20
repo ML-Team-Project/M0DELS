@@ -19,3 +19,12 @@ This repository contains four simple, end-to-end machine learning models built i
 ## 4. Workout & Diet Recommender
 * **Description:** Takes yesterday's calorie intake and suggests a workout type, duration, and foods to avoid.
 * **Run it:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Suubbbhhash/MODELS/blob/main/CALORIE_AND_WORKOUT_MODEL.ipynb)
+
+---
+
+## 👥 Contributors
+
+This project was a collaborative effort by:
+
+* **[Subash S]** - [github.com/Suubbbhhash](https://github.com/Suubbbhhash)
+* **[Vaishnavi K N]** - [github.com/HerUsername](https://github.com/HerUsername)
